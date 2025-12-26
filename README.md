@@ -1,0 +1,1 @@
+The first application I wrote with Claude myself, you can set the number of clipping lines by yourself, you can also set the thickness of the clipping line, and you can also selectively output, I adjusted it several times on Claude to get this perfect version, for colleagues who like to use storyboards to make videos, if it is easy to use, please follow me
